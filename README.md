@@ -1,4 +1,4 @@
-# 📊 SQL Data Analytics Projects — Company Layoffs
+# 📊 SQL Project — Company Layoffs
 
 ## 📌 Project Overview
 
